@@ -1,5 +1,5 @@
 
-![Clock config]("C:\Users\kashish\OneDrive\Desktop\Clock configuration.png"? "Clock config")
+(https://i.postimg.cc/9FzSt70h/Clock-configuration.png)
 The timer clock was configured with the High speed internal RC oscillator (HSI) The 64Mhz clock was pre-scaled down to 8Mhz
 
 ![GPIO config]("C:\Users\kashish\OneDrive\Desktop\Screenshot 2025-01-29 020502.png"?raw=true "GPIO config")
