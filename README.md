@@ -7,7 +7,8 @@ The timer clock was configured with the High speed internal RC oscillator (HSI) 
 
 ![Timer config](https://github.com/user-attachments/assets/bd054bb6-c013-4271-8f1b-6ee3c71bf203)
 
-Configured P in 13 port C with external switch  configured with external interrupt triggered by falling edge , the switch is internally pulled down implying that it’s value will be 0 at reset
+Configured P in 13 port C with external switch  configured with external interrupt triggered by falling edge , the switch is internally pulled down implying that it’s value will be 0 at reset.
+
 Pin 6 port A was configured with alternate function of Timer 3 channel 1 to generate a PWM wave with varying frequency , Timer details
 Pre-scaler = 8000-1      frequency =8Mhz/7999= 1 khz
 Counter period = 0
